@@ -6,11 +6,17 @@
 Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman, S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. 2013. "High-Resolution Global Maps of 21st-Century Forest Cover Change." Science 342 (15 November): 850-53. 10.1126/science.1244693 Data available online at: https://glad.earthengine.app/view/global-forest-change.
 See link https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2022_v1_10
 
+**Repository structure:**
+- Data: a folder that stores the geojason files for the boundaries of project area and reference area.
+- Docs: a folder that hosts the figures produced from python code and a project document.
+- JupyterNotebook: stores the python codes in jupyter notebook.
+
 **Background:**
 
-The Luangwa Valley is known for its rich biodiversity and critical ecological significance, making it essential to understand and monitor the extent of deforestation and forest degradation in the region. This project leverages the power of Google Earth Engine for extracting valuable insights on forest cover variations over time. The repository serves as a hub for python code, data sources, documentation, and visualizations. 
+The Luangwa Valley is known for its rich biodiversity and critical ecological significance, making it essential to understand and monitor the extent of deforestation and forest degradation in the region. This project leverages the power of Google Earth Engine for extracting valuable insights on forest cover variations over time. The repository serves as a hub for Python code, data sources, documentation, and visualizations. You can find more details of the project in "WBCSD - An NCS Lighthouse - Luangwa Community Forests Project.pdf" under the folder "Docs".
 
-**Installation Required:**  Python3, Jupyter Notebook Required Python packages: numpy, pandas, scipy.stats, statsmodels.stats.api, matplotlib, matplotlib.pyplot
+**Installation Required:**  Python3
+Jupyter Notebook Required Python packages: pandas, matplotlib, ee 
 
 **Main Findings:**
 
