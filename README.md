@@ -15,8 +15,10 @@ See link https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_
 
 The Luangwa Valley is known for its rich biodiversity and critical ecological significance, making it essential to understand and monitor the extent of deforestation and forest degradation in the region. This project leverages the power of Google Earth Engine for extracting valuable insights on forest cover variations over time. The repository serves as a hub for Python code, data sources, documentation, and visualizations. You can find more details of the project in "WBCSD - An NCS Lighthouse - Luangwa Community Forests Project.pdf" under the folder "Docs".
 
-**Installation Required:**  Python3
-Jupyter Notebook Required Python packages: pandas, matplotlib, ee 
+**Installation Required:**  
+Python3
+Jupyter Notebook Required 
+Python packages: pandas, matplotlib, ee 
 
 **Main Findings:**
 
